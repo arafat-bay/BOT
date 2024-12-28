@@ -6,17 +6,17 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "𝐈𝐬𝐥𝐦𝐚𝐢𝐜𝐤 𝐂𝐡𝐚𝐭",
+  "BOTNAME": "ARAFAT☆BOT",
   "PREFIX": "/",
   "OPERATOR": [
     "100006420851274",
-    ""
+    "61567225289049"
   ],
   "ADMINBOT": [
     "100006420851274",
-    "",
-    "",
-    "100029115600589"
+    "61555163956245",
+    "61567225289049",
+    ""
   ],
   "OWNER": ["100029115600589"], 
   "APPROVED": [],
